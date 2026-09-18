@@ -27,7 +27,7 @@ st.markdown("---")
 
 
 # Load data
-file_path = "/Users/marrow/Downloads/Database Set.xlsx - Sheet1.csv"
+file_path = "Database Set.xlsx - Sheet1.csv"
 
 df = pd.read_csv(file_path)
 
